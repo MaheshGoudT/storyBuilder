@@ -1,0 +1,48 @@
+#category {
+    border : 2px solid #ccc;
+    padding : 4px;
+    margin : 2px;
+    float : left;
+    width : 150px;
+    text-align : center;
+}
+
+#allcategories {
+    float : right;
+    margin-right : 20px;
+    background-color : #F8F8F8;
+    padding : 10px;
+    border : 2px solid;
+}
+
+#footer {
+    clear: both;
+}
+
+#tarea {
+    float : left;
+    margin-left : 20px;
+}
+
+#entity {
+    float : left;
+    width : 430px;
+    height : 300px;
+    border : 2px solid;
+    margin : 5px;
+    background-color : #F8F8F8;
+    text-align : center;
+}
+
+#allentities {
+    margin : 20px;
+}
+
+h1,h2,h3 {
+    text-align : center;
+}
+
+#bg {
+    /*background-image : url('http://www.featurepics.com/FI/Thumb300/20090621/Adventure-Stories-Background-1221551.jpg');*/
+    background-color : rgb(218,241,243);
+}

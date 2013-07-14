@@ -1,0 +1,15 @@
+One can launch story.php from local browser and test it (Accuracies are bit low for now)
+
+storyMVC.php (Its not used for now)
+
+Inteded to develop a story builder. It has 2 critical components 
+a) Content merger
+b) Visualizer
+
+Content merger did not work as expected so created a bare bone skeletal strucute for now
+
+Technologies used : yql & yahoo content analysis
+
+Narrowed domain to wiki articles
+
+Accuracies can be improved by enriching content further from real time feeds, social networks, news articles etc ...
